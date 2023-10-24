@@ -7,23 +7,10 @@ const Contact = () => {
                 <div className="contact-left">
                     <h1 className="sub-title">Contact Me : </h1>
                     <div className='con'>
-                      <p><i className="fa-solid fa-paper-plane"></i>look4nandinisingh@gmail.com</p>
+                      <p><i className="fa-solid fa-paper-plane"></i>mr.tomar18@gmail.com</p>
+                      <br />
                       <p><i className="fa-solid fa-phone"></i>8171663075</p>
                     </div>
-                    <div className='con'>
-                      <p><i className="fa-solid fa-paper-plane"></i>look4nandinisingh@gmail.com</p>
-                      <p><i className="fa-solid fa-phone"></i>8171663075</p>
-                    </div>
-                    <div className='con'>
-                      <p><i className="fa-solid fa-paper-plane"></i>look4nandinisingh@gmail.com</p>
-                      <p><i className="fa-solid fa-phone"></i>8171663075</p>
-                    </div>
-                    <div className='con'>
-                      <p><i className="fa-solid fa-paper-plane"></i>look4nandinisingh@gmail.com</p>
-                      <p><i className="fa-solid fa-phone"></i>8171663075</p>
-                    </div>
-
-                    
                 </div>
                 <div className="contact-right">
                     <form name="submit-to-google-sheet" >

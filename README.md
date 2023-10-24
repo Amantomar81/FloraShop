@@ -1,5 +1,6 @@
 # FloraShop
 An online platform for purchasing a wide variety of flowers.
+It's a MERN Stack Project.
 
 # Getting Started with Create React App
 
